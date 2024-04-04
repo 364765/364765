@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **andreasdaarstad@gmail.com**
 
-- 📄 Know about my experiences [@in progress](@in progress)
+- 📄 Know about my experiences (@in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
