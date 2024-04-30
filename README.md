@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on by bachelor thesis **Botolf**
 
-- 🌱 I’m currently learning about **Azure, deployment, bicep, network and cloud**
+- 🌱 I’m currently learning about **network and cloud**
 
 - 👨‍💻 All of my projects are available at (except bachelor) [@Github](@Github)
 
